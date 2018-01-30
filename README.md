@@ -13,8 +13,11 @@
 
 # Step 4
 
-# Here, the code uses a machine learning algorithm to output a topic model. 
+# Here, the code uses a machine learning algorithm to output a topic model. Check to see how many words are in our data frame. Then, defining models to apply machine learning algorithms to. Test out each type of model. Apply LDA model. The features outputted from using LDA are not what we are looking for. Apply LSA model. This is more like what we want.
 
 # Step 5
 
 # This step arranges the data for visualization.
+
+# Overall Experience
+# I do not know a lot about coding, so the code looks confusing to me.  It is easier to go over the code step by step in class then going over it myself.
